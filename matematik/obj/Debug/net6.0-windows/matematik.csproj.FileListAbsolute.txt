@@ -1,0 +1,16 @@
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\bin\Debug\net6.0-windows\matematik.exe
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\bin\Debug\net6.0-windows\matematik.deps.json
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\bin\Debug\net6.0-windows\matematik.runtimeconfig.json
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\bin\Debug\net6.0-windows\matematik.dll
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\bin\Debug\net6.0-windows\matematik.pdb
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\obj\Debug\net6.0-windows\matematik.Form1.resources
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\obj\Debug\net6.0-windows\matematik.csproj.GenerateResource.cache
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\obj\Debug\net6.0-windows\matematik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\obj\Debug\net6.0-windows\matematik.AssemblyInfoInputs.cache
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\obj\Debug\net6.0-windows\matematik.AssemblyInfo.cs
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\obj\Debug\net6.0-windows\matematik.csproj.CoreCompileInputs.cache
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\obj\Debug\net6.0-windows\matematik.dll
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\obj\Debug\net6.0-windows\refint\matematik.dll
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\obj\Debug\net6.0-windows\matematik.pdb
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\obj\Debug\net6.0-windows\matematik.genruntimeconfig.cache
+C:\Users\Fikret AKBAŞ\Desktop\dotnet\matematik\obj\Debug\net6.0-windows\ref\matematik.dll
